@@ -21,5 +21,16 @@ git clone [https://github.com/madhur-B/Task-2-Madhur-Decodes.git]
 
 
 ## 📷 Project Execution Demo
+
 <details>
-<summary><b>📐 Click here to expand the 2 execution screenshots</b></summary>
+<summary>Click here to expand the 2 execution screenshots</summary>
+
+<br>
+
+### Execution Screenshot 1
+![Execution Screenshot 1](Dc_demo1.png)
+
+### Execution Screenshot 2
+![Execution Screenshot 2](Dc_demo2.png)
+
+</details>
