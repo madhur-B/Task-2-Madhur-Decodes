@@ -1,7 +1,7 @@
 # Task-2-Madhur-Decodes
 
 **Data classification System**
-A Python-based data classification system designed to process, sanitize, and categorize datasets using conditional rules and structured logic.
+* A Python-based data classification system designed to process, sanitize, and categorize datasets using conditional rules and structured logic.
 
 
 ## 🚀 Features
@@ -17,4 +17,9 @@ A Python-based data classification system designed to process, sanitize, and cat
 
 ## 📦 Installation & Usage
  **Clone the repository:**
- 
+git clone [https://github.com/madhur-B/Task-2-Madhur-Decodes.git]
+
+
+## 📷 Project Execution Demo
+<details>
+<summary><b>📐 Click here to expand the 2 execution screenshots</b></summary>
